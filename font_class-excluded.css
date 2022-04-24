@@ -4,5 +4,5 @@ em:not(.W_ficon/*weibo*/),
 i:not(.c-icon/*baidu*/):not(.fa/*minwt*/):not(.fp-iconfont/*tmall*/):not(.iconfont):not(.icon-user/*sohu*/):not(.material-icons-extended/*google*/):not(.mui-global-iconfont/*tmall*/):not(.tb-ifont/*taobao*/):not(.W_ficon/*weibo*/), 
 span:not(.iconfont/*youku*/):not(.material-icons-extended/*google*/):not(.octicon-mark-github/*github*/):not(.octicon/*github*/):not(.site-nav-icon/*taobao*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/)
 {
-    font-family: /*replace with your own fonts*/ Ebrima, 'LXGW WenKai', '霞鹜文楷', '楷体', TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16, monospace !important;
+    font-family: /*replace with your own fonts*/ Font1, Font2, Font3, Font4, monospace !important;
 }
