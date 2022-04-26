@@ -1,9 +1,9 @@
 dt, h1, h2, h3, input, li, p, q, textarea, td,
-a:not(.anchorjs-link/*realm*/):not(.devsite-nav-toggle/*google*/):not(.fa/*gluonhq*/), 
-div:not(.icon--2sY_j/*rakuten*/):not(.material-icons/*google*/), 
-em:not(.W_ficon/*weibo*/), 
-i:not(.ai/*github*/):not(.c-icon/*baidu*/):not(.fa/*minwt*/):not(.fab/*github*/):not(.fas/*github*/):not(.fp-iconfont/*tmall*/):not(.iconfont):not(.icon-user/*sohu*/):not(.material-icons-extended/*google*/):not(.mui-global-iconfont/*tmall*/):not(.tb-ifont/*taobao*/):not(.ua-icon/*designerly*/):not(.wbicon/*weibo*/):not(.W_ficon/*weibo*/), 
-span:not(.icon--2xnwY/*pixabay.com*/):not(.iconfont/*youku*/):not(.glyphicon/*http://book.iflora.cn/*/):not(.material-icons/*google*/):not(.material-icons-extended/*google*/):not(.octicon-mark-github/*github*/):not(.octicon/*github*/):not(.site-nav-icon/*taobao*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/)
+a:not(.anchorjs-link/*realm*/):not([class^=block-login-link]/*microsoft*/):not(.devsite-nav-toggle/*google*/):not(.fa/*gluonhq*/):not(.W_ficon/*weibo*/), 
+div:not([class^=icon]/*rakuten*/):not(.material-icons/*google*/), 
+em:not(.cmn-icon/*baidu*/):not([class^=icon]/*weibo, sohu*/):not(.W_ficon/*weibo*/), 
+i:not(.ai/*github*/):not(.c-icon/*baidu*/):not(.fa/*minwt*/):not(.fab/*github*/):not(.fas/*github*/):not(.fp-iconfont/*tmall*/):not(.iconfont):not([class^=icon]/*weibo, sohu*/):not(.material-icons-extended/*google*/):not(.mui-global-iconfont/*tmall*/):not(.tb-ifont/*taobao*/):not(.ua-icon/*designerly*/) :not(.wbicon/*weibo*/):not(.W_ficon/*weibo*/), 
+span:not([class^=icon]/*microsoft*/):not(.iconfont/*youku*/):not([class^=glyph]/*microsoft*/):not(.glyphicon/*http://book.iflora.cn/*/):not(.material-icons/*google*/):not(.material-icons-extended/*google*/):not(.octicon-mark-github/*github*/):not(.octicon/*github*/):not(.site-nav-icon/*taobao*/):not([class^=supHomeAndLandingPageIcon]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/)
 {
     font-family: /*replace with your own fonts*/ Font1, Font2, Font3, Font4, monospace !important;
 }
