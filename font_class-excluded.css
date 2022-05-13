@@ -4,7 +4,8 @@ a.mw-ui-icon/*mobile-wikipedia*/,
 div:not([class*=icon]/*rakuten*/):not([class^=material]/*google*/), 
 em:not([class*=icon]), 
 i:not(.ai/*github*/):not([data-icon-name=ChevronDown]/*microsoft*/):not([data-icon-name=CheckMark]/*microsoft*/):not([class*=fa]):not([class*=icon]):not([class*=Icon]):not(.i_xsj/*zdic*/):not(.i_suyi/*zdic*/):not([class^=material]/*google*/):not([class*=malio]/*fastlink*/):not(.woo-font), 
-span:not(.docon/*microsoft*/):not(.DPvwYc/*googleplay*/):not(.fa):not([class*=icon]):not([class^=glyph]/*microsoft*/):not([class^=material]/*google*/):not([id=tabStripChevron]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/)
+span:not(.docon/*microsoft*/):not(.DPvwYc/*googleplay*/):not(.fa):not([class*=icon]):not([class^=glyph]/*microsoft*/):not([class^=material]/*google*/):not([id=tabStripChevron]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/),
+span.mw-ui-icon/*mobile-wikipedia*/
 {
     font-family: /*replace with your own fonts*/ Font1, Font2, Font3, Font4, monospace !important;
 }
