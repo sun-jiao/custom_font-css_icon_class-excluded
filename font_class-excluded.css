@@ -1,10 +1,10 @@
-dt, font, h1, h2, h3, h4, input, li, p, q, select, textarea, td, yt-formatted-string, 
+dt, font, h1, h2, h3, h4, h5, input, li, p, pre, q, select, textarea, td, yt-formatted-string, 
 a:not(.anchorjs-link/*realm*/):not(.audio_play_button/*zdic*/):not([class^=block-login-link]/*microsoft*/):not(.devsite-nav-toggle/*google*/):not(.docon/*microsoft*/):not(.fa/*gluonhq*/):not([class*=icon]):not(.tab/*zdic*/),
 a.mw-ui-icon/*mobile-wikipedia*/, 
-div:not([class*=icon]/*rakuten*/):not([class^=material]/*google*/), 
+div:not([class*=icon]/*rakuten*/):not([class^=material]/*google*/):not(.wbpv-error-button), 
 em:not([class*=icon]), 
-i:not(.ai/*github*/):not([data-icon-name=ChevronDown]/*microsoft*/):not([data-icon-name=CheckMark]/*microsoft*/):not([class*=fa]):not([class*=icon]):not([class*=Icon]):not(.i_xsj/*zdic*/):not(.i_suyi/*zdic*/):not([class^=material]/*google*/):not([class*=malio]/*fastlink*/):not(.woo-font), 
-span:not(.docon/*microsoft*/):not(.DPvwYc/*googleplay*/):not(.fa):not([class*=icon]):not([class^=glyph]/*microsoft*/):not([class^=material]/*google*/):not([id=tabStripChevron]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/),
+i:not(.ai/*github*/):not([data-icon-name=ChevronDown]/*microsoft*/):not([data-icon-name=CheckMark]/*microsoft*/):not([class*=fa]):not([class*=icon]):not([class*=Icon]):not(.i_xsj/*zdic*/):not(.i_suyi/*zdic*/):not([class^=material]/*google*/):not([class*=malio]/*fastlink*/):not(.mdl2-like/*microsoft*/):not(.m-font):not(.woo-font), 
+span:not([id*=display_2]/*microsoft*/):not(.docon/*microsoft*/):not(.DPvwYc/*googleplay*/):not(.fa):not([class*=icon]):not([class^=glyph]/*microsoft*/):not([class^=material]/*google*/):not([id=tabStripChevron]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.upload-bg/*jd*/),
 span.mw-ui-icon/*mobile-wikipedia*/
 {
     font-family: /*replace with your own fonts*/ Font1, Font2, Font3, Font4, monospace !important;
