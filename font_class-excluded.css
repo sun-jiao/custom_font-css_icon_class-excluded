@@ -7,5 +7,5 @@ i:not(.ai/*github*/):not(.btb/*choya*/):not(.btr/*choya*/):not(.bts/*choya*/):no
 span:not([id*=display_2]/*microsoft*/):not(.docon/*microsoft*/):not(.DPvwYc/*googleplay*/):not(.fa):not([class*=icon]):not([class^=glyph]/*microsoft*/):not(.google-symbols/*material design official website*/):not(.jRwRSPnE-SQtHxWNafCq3/*outlook*/):not([class^=material]/*google*/):not([id=tabStripChevron]/*microsoft*/):not(.tb-ifont/*taobao*/):not(.translate-tool__from__keyboard-trig/*cam_dic*/):not(.upload-bg/*jd*/):not(.XeW8PT-i7T7KsLYPWfGDv/*outlook*/),
 span.mw-ui-icon/*mobile-wikipedia*/
 {
-    font-family: /*replace with your own fonts*/ Segoe UI, 'LXGW WenKai', '霞鹜文楷', '楷体', TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16, monospace !important;
+    font-family: /*replace with your own fonts*/ Segoe UI, 'LXGW WenKai', '霞鹜文楷', '楷体', TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16, TH-Times, TH-Times-telex, TH-Times-grek, TH-Times-cyrl, monospace !important;
 }
